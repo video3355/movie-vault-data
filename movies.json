@@ -1,1 +1,27 @@
-
+{
+  "New Videos": [
+    {
+      "tham": "https://example.com/thumbnail1.png",
+      "videos": [
+        "https://example.com/video1_part1.mp4",
+        "https://example.com/video1_part2.mp4"
+      ]
+    }
+  ],
+  "Most Popular": [
+    {
+      "tham": "https://example.com/thumbnail2.png",
+      "videos": [
+        "https://example.com/video2.mp4"
+      ]
+    }
+  ],
+  "All Videos": [
+    {
+      "tham": "https://example.com/thumbnail3.png",
+      "videos": [
+        "https://example.com/video3.mp4"
+      ]
+    }
+  ]
+}
